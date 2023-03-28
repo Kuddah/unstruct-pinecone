@@ -1,5 +1,4 @@
 langchain==0.0.124
-pinecone==0.1.0
 pinecone_client==2.2.1
 streamlit==1.20.0
 typing_extensions==4.5.0
