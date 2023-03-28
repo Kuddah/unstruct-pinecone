@@ -21,7 +21,6 @@ clickhouse-connect==0.5.17
 cloudpickle==2.2.1
 cmake==3.26.1
 coloredlogs==15.0.1
-command-not-found==0.3
 commonmark==0.9.1
 contourpy==1.0.7
 cryptography==40.0.1
