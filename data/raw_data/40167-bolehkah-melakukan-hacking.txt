@@ -1,0 +1,62 @@
+
+Pertanyaan:
+Akhir-akhir ini sedang marak isu tentang bocornya data pemerintah yang dilakukan oleh seorang hacker. Saya ingin tanya, sebenarnya bagaimana pandangan Islam tentang hacking ini? Apakah boleh menjadi seorang hacker? Bagaimana jika yang di-hack adalah data orang jahat atau orang kafir? Jazakumullah khairan.
+Jawaban:
+Alhamdulillahi rabbil ‘alamin, ash-shalatu was salamu ‘ala asyrafil anbiya’ wal mursalin Muhammadin, wa ‘ala alihi wa shahbihi ajma’in. Amma ba’du.
+Ensiklopedia Wikipedia mendefinisikan hacker atau peretas, bahwa peretas adalah setiap programmer komputer yang terampil yang dengan pengetahuan teknisnya, menggunakan bug atau exploit untuk membobol sistem komputer. Dan hacking atau peretasan adalah kegiatan pembobolan sistem komputer.
+Terdapat istilah lain yaitu cracker. Cracker adalah hacker yang membobol sistem komputer untuk melakukan kejahatan. Sedangkan hacker yang melakukan hacking secara legal dan untuk tujuan baik, disebut dengan ethical hacker. Dari sini kita mengetahui bahwa istilah hacker atau hacking itu lebih umum, mencakup semua orang yang bisa membobol sistem komputer. Sedangkan cracker dan ethical hacker itu lebih khusus.
+Secara umum, melakukan hacking itu terlarang baik dengan tujuan jahat ataupun tanpa tujuan jahat. Karena ini termasuk perbuatan yang mengganggu orang lain. Padahal Allah ta’ala berfirman:
+وَالَّذِينَ يُؤْذُونَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ بِغَيْرِ مَا اكْتَسَبُوا فَقَدِ احْتَمَلُوا بُهْتَانًا وَإِثْمًا مُبِينًا
+“Dan orang-orang yang mengganggu orang-orang yang mukmin dan mukminat tanpa kesalahan yang mereka perbuat, maka sesungguhnya mereka telah memikul kebohongan dan dosa yang nyata.” (QS. al-Ahzab: 58)
+Dari Abdullah bin Umar radhiyallahu ‘anhu, Nabi shallallahu ‘alaihi wa sallam bersabda:
+يَا مَعْشَرَ مَنْ أَسْلَمَ بِلِسَانِهِ وَلَمْ يَدْخُلِ الْإِيْمَانُ فِي قَلْبِهِ، لاَ تُؤْذُوا الْمُسْلِمِينَ
+“Wahai orang-orang yang telah masuk Islam, namun iman belum masuk pada hatinya, janganlah kalian mengganggu sesama Muslim.” (HR. at-Tirmidzi no.2032, dihasankan al-Albani dalam Shahih at-Tirmidzi)
+Salah satu sifat seorang muslim yang sejati adalah tidak mengganggu orang lain baik dengan tangannya atau lisannya. Dari Abu Musa al-Asy’ari radhiyallahu ’anhu ia berkata: 
+قَالُوا يَا رَسُولَ اللَّهِ، أَيُّ الإِسْلاَمِ أَفْضَلُ؟ قَالَ: «مَنْ سَلِمَ المُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ
+“Para sahabat bertanya: wahai Rasulullah, amalan Islam apa yang paling utama? Beliau menjawab: Orang yang kaum muslimin merasa selamat dari keburukan lisannya dan tangannya.” (HR. al-Bukhari no.11, Muslim no.66)
+Dan jika kita memiliki sistem komputer, tentu kita tidak berkenan sistem kita dibobol dan diakses oleh orang lain tanpa izin. Maka kita pun tidak boleh melakukan hal demikian kepada orang lain. dari Abdullah bin Amr radhiyallahu ‘anhu, Rasulullah shallallahu ‘alaihi wa sallam bersabda,
+فَمَنْ أَحَبَّ أَنْ يُزَحْزَحَ عَنِ النَّارِ وَيَدْخُلَ الْجَنَّةَ فَلْتَأْتِهِ مَنِيَّتُهُ وَهُوَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ وَلْيَأْتِ إِلَى النَّاسِ الَّذِى يُحِبُّ أَنْ يُؤْتَى إِلَيْهِ
+“Siapa yang ingin dijauhkan dari neraka dan dimasukkan ke surga, hendaknya ketika ia mati dalam keadaan beriman kepada Allah dan hari akhir, dan hendaknya ia memperlakukan orang lain sebagaimana ia ingin diperlakukan oleh orang lain.” (HR. Muslim, no.1844)
+Dan tidak boleh melakukan hacking walaupun tidak bermaksud melakukan kejahatan, hanya sekedar main-main atau iseng. Dari Yazid bin Abdillah radhiyallahu ‘anhu, Nabi shallallahu ‘alaihi wasallam bersabda:
+لَا يَأْخُذْ أَحَدُكُمْ عَصَا أَخِيهِ لَاعِبًا أَوْ جَادًّا، فَمَنْ أَخَذَ عَصَا أَخِيهِ فَلْيَرُدَّهَا إِلَيْه
+“Janganlah salah seorang dari kalian mengambil tongkat saudaranya baik karena bercanda ataupun sungguhan. Siapa yang mengambil tongkat saudaranya, maka ia harus mengembalikannya.” (HR. at-Tirmidzi no.2160, dishahihkan al-Albani dalam Shahih at-Tirmidzi)
+Demikian juga, pemilik sistem komputer yang mengetahui ada hacker yang telah membobol sistemnya, ia akan ketakutan, resah, dan khawatir akan data dan hal-hal penting yang ada di dalamnya. Dari Abdurrahman bin Abi Laila radhiyallahu ‘anhu, Nabi shallallahu ‘alaihi wa sallam bersabda:
+لا يَحِلُّ لِمُسْلِمٍ أَنْ يُرَوِّعَ مُسْلِمًا
+“Tidak halal bagi seorang muslim untuk menakuti muslim yang lainnya.” (HR. Abu Daud no.4351, dishahihkan al-Albani dalam Shahih Abu Daud)
+Demikian juga, walaupun tidak bermaksud jahat dan tidak menimbulkan kerugian, seorang hacker ketika ia membobol suatu sistem komputer dan mengaksesnya secara ilegal, bisa jadi ia akan mengetahui aib dari si pemilik komputer yang tersimpan di komputer tersebut. Oleh karena itu, di dalam Islam dilarang mengintip ke dalam rumah orang lain. Karena bisa jadi ia akan melihat yang tidak layak dilihat. Dari Sahl bin Sa’id as-Sa’idi, ia berkata:
+أَنَّ رَجُلًا اطَّلَعَ فِي جُحْرٍ فِي بَابِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَمَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِدْرًى يَحُكُّ بِهِ رَأْسَهُ فَلَمَّا رَآهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَوْ أَعْلَمُ أَنَّكَ تَنْتَظِرُنِي لَطَعَنْتُ بِهِ فِي عَيْنِكَ وَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنَّمَا جُعِلَ الْإِذْنُ مِنْ أَجْلِ الْبَصَرِ
+“Seorang laki-laki mengintip ke rumah Rasulullah shallallahu ‘alaihi wasallam melalui lubang pintu. Ketika itu Rasulullah shallallahu ‘alaihi wasallam sedang menyisir rambut dengan sebuah sisir besi. Tatkala beliau mengetahui ada orang mengintip. Beliau berkata: “Andai aku tahu engkau sedang mengintip, pasti aku tusuk matamu“. Lalu beliau bersabda: ‘Sesungguhnya disyari’atkannya izin (salam) untuk menjaga pandangan (terhadap hal yang tidak layak dilihat)’.” (HR. al-Bukhari no. 5772, Muslim no. 4013)
+Apalagi jika sang hacker memang bersengaja untuk mengorek-ngorek aib dan kesalahan dari si pemilik sistem, maka ini lebih terlarang lagi. Dari Abu Hurairah radhiyallahu ‘anhu, Nabi shallallahu ‘alaihi wa sallam bersabda:
+وَلاَ تَحَسَّسُوا، وَلاَ تَجَسَّسُوا، وَلاَ تَحَاسَدُوا، وَلاَ تَدَابَرُوا، وَلاَ تَبَاغَضُوا، وَكُونُوا عِبَادَ اللَّهِ إِخْوَانًا 
+“Janganlah kalian melakukan tahassus, jangan melakukan tajassus, jangan saling hasad, jangan saling membelakangi, dan jangan saling benci. Jadilah kalian bersaudara, wahai para hamba Allah!”( HR. al-Bukhari, no. 6064)
+Tajassus itu mencari-cari kesalahan dan aib dari seorang muslim lalu mengumpulkannya. Tahassus itu mengorek-ngorek hal yang tersembunyi dari seorang muslim.
+Syaikh Muhammad bin Shalih al-Munajjid ketika ditanya tentang hukum hacking email orang lain, beliau menjawab: “Syariat Islam yang suci mengharamkan pelanggaran terhadap hak asasi orang lain. Terdapat ancaman yang keras bagi orang yang melanggar kehormatan pribadi seorang muslim. Di antaranya adanya larangan tajassus, larangan mengintip, larangan menguping pembicaraan orang lain tanpa izin, dan lainnya. Islam telah jauh lebih maju dalam hal ini daripada orang-orang yang mereka mengaku menjunjung hak asasi manusia. Dan email adalah termasuk area pribadi seseorang. Di dalamnya terdapat surat yang dikirim dan diterima terkait urusan keluarga, urusan pekerjaan, urusan harta, dan urusan lainnya. Ini menjadikan perbuatan hacking terhadap email orang lain hukumnya haram, tidak halal bagi siapapun.” (Fatawa Islam Sual wa Jawab, no.114836)
+Cracking sistem orang kafir yang memusuhi Islam dan orang jahat
+Adapun melakukan hacking dan cracking sistem orang kafir yang memusuhi Islam dan sistem yang digunakan oleh orang-orang jahat yang menimbulkan kerugian bagi masyarakat, maka ini asalnya termasuk amar ma’ruf nahi mungkar. Dari Abu Sa’id al-Khudri radhiyallahu ‘anhu, Nabi shallallahu ‘alaihi wa sallam bersabda:
+مَن رَأَى مِنكُم مُنْكَرًا فَلْيُغَيِّرْهُ بيَدِهِ، فإنْ لَمْ يَسْتَطِعْ فَبِلِسانِهِ، فإنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وذلكَ أضْعَفُ الإيمانِ
+“Barang siapa yang melihat kemungkaran, maka ubahlah dengan tangannya. Jika tidak mampu, maka ubahlah dengan lisannya. Jika tidak mampu, maka ubahlah dengan hatinya. Dan itu adalah selemah-lemahnya iman.” (HR. Muslim, no.49)
+Namun tetap memperhatikan syarat-syarat dan kaidah-kaidah dalam amar ma’ruf nahi mungkar, tidak boleh sembarangan. Di antaranya, syarat bagi muhtasib (orang yang melakukan amar ma’ruf nahi munkar dengan tangan) adalah: 
+1. Muslim.
+2. Baligh dan berakal.
+3. Mampu. Yaitu ia bisa menghilangkan kemungkaran atau menguranginya, tanpa menimbulkan kerusakan yang lebih besar.
+Jika syarat-syarat ini tidak terpenuhi, maka tidak boleh melakukan amar ma’ruf nahi munkar dengan tangan. Syaikh Shalih al-Fauzan pernah ditanya, “Sebagian kaum mukminin melakukan cracking terhadap situs-situs yang mendukung musuh-musuh Allah, baik Nasrani, Yahudi, maupun firqah-firqah sesat lain. Penghancuran tersebut dilakukan secara elektronik dengan perangkat-perangkat elektronik. Dan itu menyebabkan kerugian materil dan immateril pada pemilik situs. Dan sebagian kaum mukminin yang melakukan hal tersebut, mereka memutlakkan hal ini sebagai jihad. Bagaimana pendapat anda?”
+Syaikh Shalih bin Fauzan al-Fauzan menjawab: “Hal ini tidak terlalu merugikan orang kafir. Karena mereka memiliki kemampuan dan teknologi (yang lebih hebat, pent.) untuk membuat kerusakan, lalu mereka bisa saja menunjukkan itu semua kepada kaum muslimin. Sehingga hal seperti ini (cracking) tidak diperbolehkan sedikitpun bagi kaum muslimin.” (Sumber: https://www.youtube.com/watch?v=876RDCqS1Vc)
+Dan terkait al-muhtasab fihi, yaitu perkara yang dianggap jahat dan keliru yang ingin diingkari, harus terpenuhi syarat-syarat berikut:
+1. Ia adalah perkara yang jelas dan terang-terangan kekeliruannya dalam syariat, bukan yang dilakukan sembunyi-sembunyi serta harus melakukan tajassus dulu untuk mengetahui kesalahannya.
+2. Ia adalah perkara yang sedang terjadi, bukan perkara yang dilakukan zaman dahulu dan sudah berhenti.
+3. Bukan perkara khilafiyah ijtihadiyah.
+(Diringkas dari Hukmul Muzhaharat fil Islam, hal. 132).
+Sehingga tidak boleh seseorang melakukan hacking pada sistem komputer orang lain yang dianggap jahat karena berbeda pendapat dalam masalah khilafiyah ijtihadiyah atau semisalnya.
+‘Ala kulli haal, orang yang ingin melakukan hacking dan cracking sistem orang kafir yang memusuhi Islam dan sistem yang digunakan oleh orang-orang jahat, ia haruslah orang yang berilmu dan paham syarat dan adab amar ma’ruf nahi mungkar, tidak boleh serampangan sama sekali.
+Adapun melakukan ethical hacking, yaitu peretasan sistem dengan tujuan baik, seperti untuk menguji keamanan sistem komputer, untuk mengetahui bug (kesalahan pada sistem), dan dilakukan atas izin dari pemilik sistem, maka ini tidak ada masalah sama sekali.
+Wallahu a’lam, semoga Allah ta’ala memberi taufik kepada kita semua.
+***
+Dijawab oleh Ustadz Yulian Purnama, S.Kom.
+Anda bisa membaca artikel ini melalui aplikasi Tanya Ustadz untuk Android. Download Sekarang !!
+Dukung Yufid dengan menjadi SPONSOR dan DONATUR.
+REKENING DONASI:
+BANK SYARIAH INDONESIA7086882242a.n. YAYASAN YUFID NETWORK (Kode BSI: 451)
+-----
+
+
+-----

@@ -15,7 +15,7 @@ api_key = environ['PINECONE_API_KEY'],  # find at app.pinecone.io
 environment = environ['PINECONE_API_ENV']   # next to api key in console
 )
 
-title = "Kitab Tauhid"
+title = "Syariah AI"
 st.set_page_config(page_title = title, page_icon = ":robot:")
 st.header(title)
 

@@ -1,0 +1,73 @@
+
+Free-Ongkir di Market-Place itu Riba?
+Apakah fasilitas free-ongkir yang diberikan oleh MP kepada konsumen, termasuk riba?
+Jawab:
+Bismillah was shalatu was salamu ‘ala Rasulillah, wa ba’du,
+Ada beberapa catatan tentang marketplace yang kami pahami,
+[1] Marketplace tidak memiliki barang, sehingga pihak marketplace tidak menjual barang.
+[2] Marketplace adalah wadah yang mempertemukan penjual dengan pembeli di mall online.
+[3] Marketplace tidak hanya tempat, tapi lembaga yang memiliki wewenang membuat kebijakan di pasarnya
+[4] Umumnya pihak marketplace memberi jaminan keamanaan bagi pengunjung dengan sistem rekber (rekening bersama)
+[5] Konsumen yang beli tidak pernah bertemu dengan pemilik barang. Semua transaksi dilayani dengan mesin
+[6] Tidak berwenang menetapkan harga terhadap barang yang dijual
+[7] Tidak mendapat keuntungan atau profit sharing dari merchant ketika ada barang yang terjual
+[8] Tidak menanggung resiko terhadap barang
+[9] Terkadang menyewakan fitur iklan untuk beberapa merchant, seperti diiklankan atau dipajang di depan
+[10] Dana yang mengendap di rekber, diatur oleh OJK dan tidak bisa dimanfaatkan oleh pihak marketplace – menurut info yang saya dengar –.
+Kesimpulan yang ingin kami garis bawahi, bahwa marketplace bukan penjual, bukan pula wakil dari penjual, marketplace hanya media yang mempertemukan antara penjual dan pembeli dengan aturan tertentu.
+Sebelum lebih jauh memahami marketplace, terlebih dahulu kita akan mempelajari 2 hal:
+Pertama, konsekuensi akad jual beli.
+Ketika dilakukan akad jual beli, akan terjadi perpindahan hak milik. Ketika si A menjual Hp kepada si B seharga 3jt, maka terjadi perpindahan hak milik, HP berpindah hak milik dari si A kepada si B, dan uang 3jt berpindah hak milik dari si B kepada si A.
+Kedua, rekening bersama dan escrow
+Keberadaan escrow di MP pada hakekatnya adalah untuk menjamin keamanan bagi semua pihak. Terutama para konsumen. Terlebih transaksi via online di masa sekarang, sangat rentan dengan penipuan. Ketika perusahaan MP membuat pasar, tentu saja dia ingin agar pasarnya aman dari keberadaan penipu. Intensitas penipuan tidak hanya merugikan semua pihak, termasuk kepercayaan orang terhadap pasarnya juga akan menjadi hilang. Dan ketika pasar sepi dari pengunjung, lama-kelamaan akan ditinggalkan pula oleh para penjual. Modal besar perusahaan MP dalam membuat sistem dan mesin transaksi, nyaris tidak ada harapan untuk bisa kembali.
+Bukan karena masalah membangun suudzan, namun memilih posisi aman dalam hal ini dianjurkan. Para sahabat membiasakan tindakan ini, dalam rangka untuk menghindari setiap peluang munculnya sengketa.
+Imam al-Bukhari dalam Adabul Mufrad menyebutkan judul Bab,
+باب من عد على خادمه مخافة الظن
+Bab tentang orang yang menghitung jumlah kiriman yang dibawa pembantunya, karena khawatir ada sangkaan yang tidak diinginkan.
+Kemudian beliau membawakan riwayat dari Salman al-Farisi radhiyallahu ‘anhu,
+إِنِّي لَأَعُدُّ العُرَّاقَ عَلَى خَادِمِي مَخَافَةَ الظنِّ
+Saya menghitung jumlah tulang kering (al-Urraq) yang dikirim oleh pembantuku, karena khawatir muncul sangkaan yang tidak diinginkan. (al-Adab al-Mufrad, no. 168 dan dishahihkan al-Albani).
+Al-Urraq adalah tulang yang sudah dibersihkan dagingnya, dan masih tersisa sedikit daging yang menempel. Di masa silam, ini laku dan dijual bijian. Salman memiliki pembantu yang bertugas sebagai kurir antar-jemput tulang ini. Ketika beliau mengirim dan menerima, selalu dihitung terlebih dahulu.
+Alasan Salman adalah karena itu lebih menenangkan bagi hati.
+Anda tentu saja tidak akan merasa nyaman ketika transaksi yang anda lakukan dipenuhi dengan kecurigaan. Anda beli secara online dan anda dipenuhi kekhawatiran, jangan-jangan ditipu.. karena itu, membuat suasana nyaman ketika transaksi, dengan menutup semua celah yang bisa memicu sengketa, dalam islam dianjurkan.
+Skema Transaksi di MP
+Penjual mendaftarkan dirinya untuk membuka lapak di MP, selanjutnya dia memasang foto barang di sana. Kemudian si A berminat untuk membelinya, lalu si A memasukkan barang itu ke keranjang belanja. Setelah diperiksa dan benar-benar telah sesuai, si A membeli barang itu dengan mentransfer harga barang + biaya ongkir (jika tidak gratis).
+Uang yang ditransfer konsumen tidak langsung diterima oleh penjual, namun ditahan di rekber sampai ada notifikasi bahwa barang telah tiba di tempat pembeli dengan selamat. Lalu nominal itu masuk ke dompet virtual penjual, dan selanjutnya penjual memiliki hak untuk mencairkannya.
+Jika kita buat diagram alir, urutannya sebagai berikut:
+Penjual memajang barang A => konsumen memilih barang => Konsumen memasukkan barang ke keranjang belanja => konsumen membeli dengan mentransfer senilai harga barang dan ongkir => penjual mendapat notifikasi dari MP untuk mengirim barang => penjual mengirim barang => barang sampai di konsumen.
+Yang menjadi pertanyaan, milik siapakah uang yang tersimpan di rekber?
+Setiap property online, tentu saja ada pemiliknya. Dengan melihat skema MP di atas, milik siapakah uang itu?
+Karena yang terlibat transaksi ada 3 pihak, maka jawabannya ada 3 kemungkinan,
+[1] Milik MarketPlace
+[2] Milik Penjual
+[3] Milik Konsumen
+Dan setiap jawaban tentu saja membawa konsekuensi.
+Jika kita jawab, uang itu milik MP. Pertanyaan selanjutnya, atas dasar apa pihak MP memiliki uang itu?
+Apakah dia penjual? Jawabannya: bukan.
+Apakah dia penerima utang dari konsumen?
+Sejak kapan konsumen berkeinginan memberi uang pihak MP?
+Karena itu, jika uang ini kita pahami sebagai milik pihak MP, kita kesulitan untuk memberikan alasan atas dasar apa MP memiliki uang itu.
+Jawabannya tinggal dua kemungkinan, antara milik konsumen atau milik penjual.
+Untuk menentukan ini, anda bisa gunakan teori konsekuensi akad. Jika sudah terjadi akad, berarti telah terjadi perpindahan hak milik antara penjual dan konsumen. Dimana uang itu sudah menjadi milik penjual, dan barang menjadi hak konsumen.
+Pertanyaan selanjutnya, ketika si A belanja di marketplace, kapan akad jual beli itu terjadi? Lihat skema dan diagram alir di atas. Ada 3 kemungkinan, kapan akad itu terjadi?
+[1] Ketika konsumen menaruh daftar barang yang dia pilih di keranjang belanja
+[2] Ketika konsumen mentransfer uang ke rekber
+[3] Ketika konsumen menerima barang.
+Untuk yang pertama, ketika konsumen menaruh daftar barang yang dia pilih di keranjang belanja, jelas ini bukan akad. Karena itu, sebatas menaruh di keranjang belanja, sama sekali tidak ada ikatan apapun.
+Untuk yang ketiga, Ketika konsumen menerima barang, ini juga tidak mungkin. Karena di sini konsumen hanya menerima barang dan tidak melakukan akad. Sehingga akad sudah terjadi sebelumnya. Karena itu, jawaban yang paling tepat adalah yang kedua, Ketika konsumen mentransfer uang ke rekber.
+Untuk itulah, sudah menjadi aturan dalam transaksi online, ketika konsumen dinyatakan telah deal transaksi jika dia telah melakukan pembayaran dengan cara transfer atau lainnya.
+Sehingga uang yang mengendap di rekber adalah uang milik penjual dan bukan lagi milik konsumen. Namun penjual belum bisa mencairkan haknya, sampai ada kepastian bahwa barang telah tiba dengan selamat di tempat konsumen. Sehingga uang ini hakekatnya dijadikan jaminan atas transaksi jual beli antara penjual dengan konsumen di MP tersebut.
+Kesimpulannya, uang yang mengendap di rekber itu bukan dana pinjaman konsumen ke MP. Sehingga jika konsumen mendapatkan hadiah apapun dari MP, tidak termasuk keuntungan karena transaksi utang piutang.
+Demikian, Allahu a’lam.
+Dijawab oleh Ustadz Ammi Nur Baits (Dewan Pembina Konsultasisyariah.com)
+Anda bisa membaca artikel ini melalui aplikasi Tanya Ustadz untuk Android.
+Download Sekarang !!
+Dukung Yufid dengan menjadi SPONSOR dan DONATUR.
+
+REKENING DONASI : BNI SYARIAH 0381346658 / BANK SYARIAH MANDIRI 7086882242 a.n. YAYASAN YUFID NETWORK
+KONFIRMASI DONASI hubungi: 087-738-394-989
+
+-----
+
+
+-----
